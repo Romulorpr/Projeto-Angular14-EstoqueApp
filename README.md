@@ -103,7 +103,7 @@ PROJETO-ANGULAR14-ESTOQUE/
 
 ### 1. Clonar o repositório
 ```bash
-git clone <url-do-repositorio>
+git clone <https://github.com/Romulorpr/Projeto-Angular14-EstoqueApp.git>
 cd PROJETO-ANGULAR14-ESTOQUE
 ```
 
